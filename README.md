@@ -1,6 +1,10 @@
 ### Hello 👋
 I am Lucas, I work with Javascript and C# most of the time.
 
+![](https://komarev.com/ghpvc/?username=lucasammer&color=blueviolet)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H582EX8)
+
 📍Gelderland, The Netherlands
 
 📫[me@lucasammer.com](mailto:me@lucasammer.com)

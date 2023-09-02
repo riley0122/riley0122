@@ -18,6 +18,7 @@ I am Lucas, I work with Javascript and C# most of the time.
 
 Currently working on [earbudds](https://earbudds.org) and [easy-api](https://github.com/lucasammer/easy-api)
 
+![statistics](https://github-readme-stats.vercel.app/api?username=lucasammer&show_icons=true&theme=cobalt)
 
 <!--
 **lucasammer/lucasammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

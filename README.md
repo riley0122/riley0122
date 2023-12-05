@@ -1,7 +1,7 @@
 ### Hello 👋
 I am Riley, I work with Javascript and C# most of the time.
 
-![](https://komarev.com/ghpvc/?username=riley0122&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=lucasammer&color=blueviolet)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H582EX8)
 

@@ -1,7 +1,7 @@
 ### Hello 👋
-I am Lucas, I work with Javascript and C# most of the time.
+I am Riley, I work with Javascript and C# most of the time.
 
-![](https://komarev.com/ghpvc/?username=lucasammer&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=riley0122&color=blueviolet)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H582EX8)
 
@@ -15,12 +15,12 @@ I am Lucas, I work with Javascript and C# most of the time.
 
 🔗[bread.com.de](https://bread.com.de)
 
-Currently working on [earbudds](https://earbudds.org) and [easy-api](https://github.com/lucasammer/easy-api)
+I am currently working on learning the react-native framework!
 
 #### Tools and technologies
-I am familliar with Javascript, C#, and C++. I also know most of python and go.
+I am familiar with Javascript, C#, and C++. I also know most of the Python language and go.
 
-My favorite way of using JavaScript is with Node.js, I have often made webApps, api's, and Discord bots with Discord.js.
+My favourite way of using JavaScript is with Node.js, I have often made web apps, APIs, and Discord bots with Discord.js.
 
 Javascript is my most used language, with C++ falling into second place.
 

@@ -26,8 +26,8 @@ Javascript is my most used language, with C++ falling into second place.
 
 #### Some fancy statistics
 
-![statistics](https://github-readme-stats.vercel.app/api?username=lucasammer&show_icons=true&theme=cobalt)
-![More statistices](https://github-readme-streak-stats.herokuapp.com/?user=lucasammer&theme=cobalt)
+![statistics](https://github-readme-stats.vercel.app/api?username=riley0122&show_icons=true&theme=cobalt)
+![More statistices](https://github-readme-streak-stats.herokuapp.com/?user=riley0122&theme=cobalt)
 <!--
 **lucasammer/lucasammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

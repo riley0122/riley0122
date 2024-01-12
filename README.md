@@ -1,5 +1,5 @@
 ### Hello 👋
-I am Riley, I work with Javascript and C# most of the time.
+I am Riley, I work with Javascript and C++ most of the time.
 
 ![](https://komarev.com/ghpvc/?username=lucasammer&color=blueviolet)
 

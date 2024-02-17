@@ -7,22 +7,26 @@ I am Riley, I work with Javascript and C++ most of the time.
 
 📍Gelderland, The Netherlands
 
-📫[me@lucasammer.com](mailto:me@lucasammer.com)
+📫[me@lucasammer.com](mailto:me@lucasammer.com) or preferably [riley@riley0122.dev](mailto:riley@riley0122.dev)
 
 🌐[LucasAmmer.com](https://lucasammer.com) 
 
-💼[LucasAmmer.dev](https://lucasammer.dev)  
+💼[LucasAmmer.dev](https://lucasammer.dev) & [Riley0122.dev](https://riley0122.dev)
 
 🔗[bread.com.de](https://bread.com.de)
 
-I am currently working on learning the react-native framework!
+I am currently working on learning ~~the react-native framework~~ Flutter!
+
+Also I am working on creating a [clone](https://github.com/riley0122/numworks_doom) of the game [DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) for the [Numwokrs](https://numworks.com) calculator :)
 
 #### Tools and technologies
-I am familiar with Javascript, C#, and C++. I also know most of the Python language and go.
+I am familiar with JavaScript/TypeScript, C#, and C++. I also know most of the Python language, Java, and go. I am also trying to learn dart to go along with Flutter.
 
-My favourite way of using JavaScript is with Node.js, I have often made web apps, APIs, and Discord bots with Discord.js.
+My favourite way of using JavaScript or Typescript is with Node.js, I have often made web apps, APIs, and Discord bots with Discord.js.
 
 Javascript is my most used language, with C++ falling into second place.
+
+The website I am currently writing ([riley0122.dev](https://riley0122.dev)) is being written with PHP and TypeScript togethere with TailwindCSS.
 
 #### Some fancy statistics
 

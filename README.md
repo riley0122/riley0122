@@ -30,6 +30,8 @@ Javascript is my most used language, with C++ falling into second place.
 
 The website I am currently writing ([riley0122.dev](https://riley0122.dev)) is being written with PHP and TypeScript togethere with TailwindCSS.
 
+I have also started to use ruby, specifically with ruby on rails, and I'm absolutely loving it.
+
 These are all the tools that I am comfortable with using. There might still be some ones that I forgot, but that likely means I don't uset those tools often.
 
 ### Frontend  

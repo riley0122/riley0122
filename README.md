@@ -28,7 +28,7 @@ My favourite way of using JavaScript or Typescript is with Node.js, I have often
 
 Javascript is my most used language, with C++ falling into second place.
 
-The website I am currently writing ([riley0122.dev](https://riley0122.dev)) is being written with PHP and TypeScript togethere with TailwindCSS.
+The website I am currently writing ([riley0122.dev](https://riley0122.dev)) is being written with PHP and TypeScript together with TailwindCSS.
 
 I have also started to use ruby, specifically with ruby on rails, and I'm absolutely loving it.
 

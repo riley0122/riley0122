@@ -21,6 +21,8 @@ I am currently working on learning ~~the react-native framework~~ Flutter!
 
 Also I am working on creating a [clone](https://github.com/riley0122/numworks_doom) of the game [DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) for the [Numwokrs](https://numworks.com) calculator :)
 
+On top of that I am working on the [extensio code editor](https://extensio.xyz/) (or on [github](https://github.com/extensio-editor/)) which focusses on customizability by using extensions!
+
 #### Tools and technologies
 I am familiar with JavaScript/TypeScript, C#, and C++. I also know most of the Python language, Java, and go. I am also trying to learn dart to go along with Flutter.
 

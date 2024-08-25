@@ -1,7 +1,5 @@
 ### Hiiiii 👋
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bd7otccjj6zppebb27dpae623y&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31bd7otccjj6zppebb27dpae623y&redirect=true)
-
-I am Riley, I work with Javascript and C++ most of the time.
+I am Riley, I work with Javascript, PHP or C++ most of the time.
 
 ![](https://komarev.com/ghpvc/?username=lucasammer&color=blueviolet)
 
@@ -11,30 +9,26 @@ I am Riley, I work with Javascript and C++ most of the time.
 
 📫[me@lucasammer.com](mailto:me@lucasammer.com) or preferably [riley@riley0122.dev](mailto:riley@riley0122.dev)
 
+🌐[SOON] [riley0122.dev](https://riley0122.dev) 
+
 🌐[LucasAmmer.com](https://lucasammer.com) 
 
 💼[LucasAmmer.dev](https://lucasammer.dev) & [Riley0122.dev](https://riley0122.dev)
 
 🔗[bread.com.de](https://bread.com.de)
 
-I am currently working on learning ~~the react-native framework~~ Flutter!
+Currently I am going deeper into how PHP works, and especially making more websites with it.
 
-Also I am working on creating a [clone](https://github.com/riley0122/numworks_doom) of the game [DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) for the [Numwokrs](https://numworks.com) calculator :)
-
-On top of that I am working on the [extensio code editor](https://extensio.xyz/) (or on [github](https://github.com/extensio-editor/)) which focusses on customizability by using extensions!
+I am also currently working on a programming language called [Orchid](https://orochid.riley0122.dev). It is meant to be really beginner friendly, yet still very powerfull.
 
 #### Tools and technologies
-I am familiar with JavaScript/TypeScript, C#, and C++. I also know most of the Python language, Java, and go. I am also trying to learn dart to go along with Flutter.
+I am familiar with PHP, JavaScript/TypeScript, C#, and C++. I also know most of the Python language, Java, and go. I am also trying to learn dart to go along with Flutter.
 
 My favourite way of using JavaScript or Typescript is with Node.js, I have often made web apps, APIs, and Discord bots with Discord.js.
 
 Javascript is my most used language, with C++ falling into second place.
 
 The website I am currently writing ([riley0122.dev](https://riley0122.dev)) is being written with PHP and TypeScript together with TailwindCSS.
-
-I have also started to use ruby, specifically with ruby on rails, and I'm absolutely loving it.
-
-These are all the tools that I am comfortable with using. There might still be some ones that I forgot, but that likely means I don't uset those tools often.
 
 ### Frontend  
 <div align="center">  

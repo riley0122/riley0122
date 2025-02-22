@@ -22,7 +22,7 @@ I'm Riley, or known in real life as Lucas. I am still learning but have quite a 
 ## Some fancy statistics
 
 ![statistics](https://github-readme-stats.vercel.app/api?username=riley0122&show_icons=true&theme=cobalt)
-![More statistices](https://github-readme-streak-stats.herokuapp.com/?user=riley0122&theme=cobalt)
+![More statistics](https://github-readme-streak-stats.herokuapp.com/?user=riley0122&theme=cobalt)
 <!--
 **lucasammer/lucasammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

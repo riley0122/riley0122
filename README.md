@@ -15,6 +15,8 @@ The biggest project I am currently running is [windesheimMC](https://windesheimM
 
 So far it has required me to know how to be able to make a website and backend in PHP, wite a (simple) Minecraft Paper plugin in Java, and it also required quite a bit of server orchestration insight for setting up and configuring the servers we use. This project is still ongoing and running. So if you study at Windesheim; don't hesitate to join today! [https://windesheimMC.online/](https://windesheimMC.online/)
 
+Right now, none of the code is open source. However if enough people want to see it, that may change. [Check out the github!](https://github.com/windesheimMC/)
+
 ## My personal statement on AI
 
 I am a firm believer that AI should be used as little as possible, preferably not at all. Using AI will make you lazy and it will take away from your ability to research and write code yourself. It also isn't the best for the environment. So is skipping 10 minutes of sitting down and typing really worth all that?
